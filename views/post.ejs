@@ -1,0 +1,31 @@
+<%- include header %>
+<form class="form-horizontal" method="post">
+    <div class="form-group">
+        <label for="title" class="col-sm-1 control-label">标题</label>
+        <div class="col-sm-11">
+            <input type="text" class="form-control" id="title" name="title" placeholder="请输入标题">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="post" class="col-sm-1 control-label">正文</label>
+        <div class="col-sm-11">
+            <textarea class="form-control" rows="20" name="post"></textarea>
+        </div>
+        <!--<label class="col-sm-1 control-label">正文</label>-->
+        <!--<div class="col-sm-11">-->
+            <!-- -->
+            <!--&lt;!&ndash;<label for="post" class="col-sm-1 control-label">正文</label>&ndash;&gt;-->
+            <!--<script id="editor" type="text/plain" style="width:1024px;height:500px;">请输入你的文章内容</script>-->
+        <!--</div>-->
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-5 col-sm-2">
+            <button type="submit" class="btn btn-primary">发表</button>
+        </div>
+    </div>
+</form>
+<!-- 实例化编辑器 -->
+<!--<script type="text/javascript">-->
+    <!--var ue1 = UE.getEditor('editor');-->
+<!--</script>-->
+<%- include footer %>
