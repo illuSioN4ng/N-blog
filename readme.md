@@ -1,3 +1,1 @@
-##Microblog based nodejs+express+mongoDb
-**test1**
-**test2**
+##Microblog based on nodejs+express+mongoDb

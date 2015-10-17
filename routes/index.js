@@ -3,13 +3,14 @@ var router = express.Router();
 var crypto = require('crypto');
 var User = require('../models/user.js'),
 	Post = require('../models/post.js');
+var formidable = require('formidable'),
+	fs = require('fs'),
+	UPLOAD_FOLDER = '/images/upload_images/';
 
 /* GET home page. */
 //router.get('/', function(req, res) {
 //  res.render('index', { title: 'Express' });
 //});
-
-
 
 router.get('/',function(req, res) {
 	Post.get(null, function (err, posts) {
@@ -164,6 +165,49 @@ router.get("/logout",function(req, res){
 	req.session.user = null;
 	req.flash('success','登出成功');
 	res.redirect('/');//登出成功后跳转到主页
+});
+
+router.get('/upload', checkLogin);
+router.get('/upload', function (req, res) {
+	res.render('upload', {
+		title: '文件上传',
+		user: req.session.user,
+		success: req.flash('success').toString(),
+		error: req.flash('error').toString()
+	});
+});
+
+router.post('/upload', checkLogin);
+router.post('/upload', function (req, res) {
+	var form = new formidable.IncomingForm();   //创建上传表单
+	form.encoding = 'utf-8';		//设置编辑
+	form.uploadDir = '../public' + UPLOAD_FOLDER;	 //设置上传目录
+	form.keepExtensions = true;	 //保留后缀
+	form.maxFieldsSize = 2 * 1024 * 1024;   //文件大小
+
+	form.parse(req, function(err, fields, files) {
+		if (err) {
+			req.flash('error', '文件上传失败!');
+			return;
+		}
+
+		var types       = files.file1.name.split('.');
+		var extName = String(types[types.length-1]);  //后缀名
+
+		if(extName.length == 0){
+			req.flash('error', '只支持png和jpg格式图片');
+			return;
+		}
+
+		var fileName = Math.random() + '.' + extName;
+		var newPath = form.uploadDir + fileName;
+		console.log(fileName);
+
+		fs.renameSync(files.file1.path, newPath);  //重命名
+		//req.flash('success', '文件上传成功，文件名为：'+fileName);
+		req.flash('success', '文件上传成功，文件路径为：/images/upload_images/'+fileName);
+		res.redirect('/post');
+	});
 });
 
 function checkLogin(req, res, next){
