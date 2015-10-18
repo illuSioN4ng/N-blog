@@ -2,7 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="129fcaaa-f01e-48f3-ac5e-0a33ce3f6abe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ueditor/655639180298293248.jpg" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\anchor\anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_chm.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_mv.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_psd.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_rar.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\alignicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\alignicon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\image.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\progress.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\success.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\success.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\images\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\images\success.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\chart.config.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts5.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\gmap\gmap.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\insertframe\insertframe.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\map\map.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\map\show.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\preview\preview.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\addimg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\brush.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\delimg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\delimgH.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\empty.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\emptyH.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\redo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\redoH.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\scale.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\scaleH.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\size.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\undo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\undoH.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\searchreplace\searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\searchreplace\searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\snapscreen\snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\spechars\spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\spechars\spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\config.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\image.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\progress.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\success.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\success.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\webapp\webapp.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\fClipboard_ueditor.swf" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\wordimage.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\wordimage.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\en.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\addimage.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\alldeletebtnhoverskin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\alldeletebtnupskin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\background.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\button.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\copy.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\deletedisable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\deleteenable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\listbackground.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\music.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotateleftdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotateleftenable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotaterightdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotaterightenable.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\upload.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\SyntaxHighlighter\shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\SyntaxHighlighter\shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\annotations.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\annotations.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\data.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\map.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\map.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\gray.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\grid.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\skies.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\snapscreen\UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.swf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/nodejs/config.json" afterPath="$PROJECT_DIR$/public/ueditor/nodejs/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.css" afterPath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/index.html" afterPath="$PROJECT_DIR$/public/ueditor/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ueditor/index.js" afterPath="$PROJECT_DIR$/node_modules/ueditor/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/post.ejs" afterPath="$PROJECT_DIR$/views/post.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.min.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.all.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.config.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.min.css" afterPath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.min.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.parse.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="N-blog.iws" />
@@ -24,8 +212,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
           <provider editor-type-id="MultiMarkdownFxHtmlEditor">
             <state />
           </provider>
@@ -33,13 +224,163 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07278021">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.4375">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="616" column="26" selection-start-line="616" selection-start-column="26" selection-end-line="616" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38641188">
+              <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ueditor.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/ueditor/ueditor.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ueditor/README.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ueditor.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/views/ueditor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/mongodb/lib/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="233" column="20" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/post.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.59375">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header1.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/header1.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -55,6 +396,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/views/header1.ejs" />
+        <option value="$PROJECT_DIR$/node_modules/ueditor/example/bin/www" />
+        <option value="$PROJECT_DIR$/node_modules/ueditor/example/app.js" />
+        <option value="$PROJECT_DIR$/views/post.ejs" />
+        <option value="$PROJECT_DIR$/public/ueditor/ueditor.config.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/node_modules/ueditor/index.js" />
       </list>
     </option>
   </component>
@@ -94,6 +442,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -113,9 +462,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="N-blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,8 +518,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.www (1)">
+    <configuration default="false" name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="E:/nodejs/node" path-to-js-file="www" working-dir="$PROJECT_DIR$/node_modules/ueditor/example/bin">
+      <method />
+    </configuration>
+    <configuration default="false" name="www (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="E:/nodejs/node" path-to-js-file="www" working-dir="$PROJECT_DIR$/bin">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -164,6 +566,16 @@
       <envs />
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.www (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.www (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -194,7 +606,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445074810299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rewrite the readme">
+      <created>1445134391016</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445134391016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -206,19 +624,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -235,7 +653,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update readme after use fornidable" />
     <MESSAGE value="update readme after use fornidable1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme after use fornidable1" />
+    <MESSAGE value="rewrite the readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="rewrite the readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -243,7 +662,120 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/views/ueditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/lib/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="233" column="20" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/post.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header1.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
@@ -255,15 +787,15 @@
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
@@ -272,25 +804,188 @@
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
         <state />
       </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07278021">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header1.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/lib/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="233" column="20" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/views/ueditor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ueditor/nodejs/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0182233">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ueditor/ueditor.all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="616" column="26" selection-start-line="616" selection-start-column="26" selection-end-line="616" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="412" column="0" selection-start-line="412" selection-start-column="0" selection-end-line="412" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/example/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/post.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.59375">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4375">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_images/0.2081815095152706.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_images/0.3237777124159038.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_images/0.7847135248593986.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_images/0.15601868624798954.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/upload_images/0.45307637425139546.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38641188">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
