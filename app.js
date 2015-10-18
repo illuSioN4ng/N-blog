@@ -65,9 +65,9 @@ app.use("/ueditor/ue", ueditor({//这里的/ueditor/ue是因为文件件重命�
   // ueditor 客户发起上传图片请求
   if (req.query.action === 'uploadimage') {
     var foo = req.ueditor;
-    console.log(foo.filename);
-    console.log(foo.encoding);
-    console.log(foo.mimetype);
+    //console.log(foo.filename);
+    //console.log(foo.encoding);
+    //console.log(foo.mimetype);
     var date = new Date();
     var imgname = foo.filename;
 
