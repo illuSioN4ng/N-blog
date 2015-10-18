@@ -2,195 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="129fcaaa-f01e-48f3-ac5e-0a33ce3f6abe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ueditor/655639180298293248.jpg" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\anchor\anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\attachment.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_chm.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_default.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_mv.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_psd.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_rar.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\fileTypeImages\icon_xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\alignicon.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\alignicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\file-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\file-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\icons.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\image.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\progress.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\success.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\attachment\images\success.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\background.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\images\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\background\images\success.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\chart.config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\charts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts0.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\charts\images\charts5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\gmap\gmap.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\insertframe\insertframe.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\map\map.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\map\show.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\music\music.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\preview\preview.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\addimg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\brush.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\delimg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\delimgH.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\empty.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\emptyH.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\eraser.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\redo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\redoH.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\scale.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\scaleH.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\size.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\undo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\images\undoH.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\scrawl\scrawl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\searchreplace\searchreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\searchreplace\searchreplace.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\snapscreen\snapscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\spechars\spechars.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\spechars\spechars.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\dragicon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittable.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittd.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\table\edittip.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre0.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\images\pre4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\template\template.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\center_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\file-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\file-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\icons.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\image.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\left_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\none_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\progress.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\right_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\success.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\images\success.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\video\video.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\webapp\webapp.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\fClipboard_ueditor.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\imageUploader.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\tangram.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\wordimage.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\dialogs\wordimage\wordimage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\en.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\addimage.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\alldeletebtnhoverskin.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\alldeletebtnupskin.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\background.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\button.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\copy.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\deletedisable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\deleteenable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\listbackground.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\localimage.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\music.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotateleftdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotateleftenable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotaterightdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\rotaterightenable.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\lang\en\images\upload.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\SyntaxHighlighter\shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\SyntaxHighlighter\shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\mootools-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\mootools-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\prototype-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\prototype-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\standalone-framework.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\adapters\standalone-framework.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts-more.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\annotations.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\annotations.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\canvas-tools.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\canvas-tools.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\data.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\drilldown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\drilldown.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\exporting.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\funnel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\funnel.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\heatmap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\heatmap.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\map.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\map.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\no-data-to-display.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\modules\no-data-to-display.src.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\dark-blue.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\dark-green.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\gray.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\grid.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\highcharts\themes\skies.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\snapscreen\UEditorSnapscreen.exe" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\font\vjs.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video-js.swf" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\video-js\video.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\百度云同步盘\excise\N-blog\public\ueditor\third-party\zeroclipboard\ZeroClipboard.swf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/nodejs/config.json" afterPath="$PROJECT_DIR$/public/ueditor/nodejs/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.css" afterPath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/index.html" afterPath="$PROJECT_DIR$/public/ueditor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ueditor/index.js" afterPath="$PROJECT_DIR$/node_modules/ueditor/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/post.ejs" afterPath="$PROJECT_DIR$/views/post.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.all.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.min.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.all.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.config.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.min.css" afterPath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.min.js" afterPath="$PROJECT_DIR$/public/ueditor/ueditor.parse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="N-blog.iws" />
@@ -212,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
@@ -224,8 +36,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.22675736">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -301,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38641188">
-              <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -395,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/views/header1.ejs" />
         <option value="$PROJECT_DIR$/node_modules/ueditor/example/bin/www" />
         <option value="$PROJECT_DIR$/node_modules/ueditor/example/app.js" />
@@ -403,6 +214,7 @@
         <option value="$PROJECT_DIR$/public/ueditor/ueditor.config.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/node_modules/ueditor/index.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -612,15 +424,28 @@
       <option name="project" value="LOCAL" />
       <updated>1445134391016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="using ueditor to rewrite the post and upload images&#10;somethings are still wrong">
+      <created>1445151712266</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1445151712266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="using ueditor to rewrite the post and upload images&#10;somethings are still wrong。">
+      <created>1445162992117</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1445162992117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="854" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297587" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -630,7 +455,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -654,7 +478,9 @@
     <MESSAGE value="update readme after use fornidable" />
     <MESSAGE value="update readme after use fornidable1" />
     <MESSAGE value="rewrite the readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="rewrite the readme" />
+    <MESSAGE value="using ueditor to rewrite the post and upload images&#10;somethings are still wrong" />
+    <MESSAGE value="using ueditor to rewrite the post and upload images&#10;somethings are still wrong。" />
+    <option name="LAST_COMMIT_MESSAGE" value="using ueditor to rewrite the post and upload images&#10;somethings are still wrong。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -801,23 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -982,8 +791,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38641188">
-          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="63" selection-start-line="71" selection-start-column="63" selection-end-line="71" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22675736">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding />
         </state>
       </provider>
