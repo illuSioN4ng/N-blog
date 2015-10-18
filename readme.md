@@ -1,5 +1,4 @@
 ##Microblog based on nodejs+express+mongoDb
 -   **注册+登陆**
--   **发表**
--   **新增图片上传功能（仍需完善）**
-试试看上传
+-   **发表（based on markdown）**
+-   **新增图片上传功能（formidable）**
